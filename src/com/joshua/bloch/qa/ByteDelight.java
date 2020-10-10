@@ -1,4 +1,4 @@
-package com.joshua.block.qa;
+package com.joshua.bloch.qa;
 public class ByteDelight
 {
 	//https://www.oracle.com/technical-resources/articles/javase/bloch-effective-08-qa.html
