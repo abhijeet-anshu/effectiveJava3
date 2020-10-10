@@ -1,4 +1,4 @@
-package joshua.block.qa;
+package com.joshua.block.qa;
 //https://www.oracle.com/technical-resources/articles/javase/bloch-effective-08-qa.html
 public class Unbelievable {
 	static Integer i;
