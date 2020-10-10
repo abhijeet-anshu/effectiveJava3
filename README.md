@@ -4,7 +4,10 @@
 ### book Author : Joshua Bloch 
 ### This book is a must-read for aspiring java developers.
 
-![alt text](https://images-na.ssl-images-amazon.com/images/I/41JLgmt8MlL._SX402_BO1,204,203,200_.jpg)
+![EJ3e Book Cover](https://www.pearsonhighered.com/assets/bigcovers/0/1/3/4/0134685997.jpg)
+
+[book git page](https://github.com/jbloch/effective-java-3e-source-code/blob/master/README.md)
+
 
 #### [Buy on amazon](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997/ref=sr_1_1?dchild=1&keywords=effective+java+3&qid=1602302727&s=books&sr=1-1)
 
