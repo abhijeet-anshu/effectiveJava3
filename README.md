@@ -3,8 +3,8 @@
 ### book Author : Joshua Bloch 
 ### This book is a must-read for aspiring java developers.
 
-
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.in/kp/card?asin=B078H61SCH&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_lmtGFbSR59EV1" ></iframe>
+![alt text](https://images-na.ssl-images-amazon.com/images/I/41JLgmt8MlL._SX402_BO1,204,203,200_.jpg)
+https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997/ref=sr_1_1?dchild=1&keywords=effective+java+3&qid=1602302727&s=books&sr=1-1
 
 #### below are oracle articles about it.
 #### https://www.oracle.com/java/technologies/effectivejava.html
